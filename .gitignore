@@ -1,2 +1,24 @@
+# Compiled files
 *.exe
-*.out
+*.o
+*.obj
+
+# Local task data and backups
+tasks*.json
+task.json
+
+# Temporary JSON files
+*.tmp
+
+# Development and testing files
+test-environment/
+file_test.cpp
+json.cpp
+json_library_test.cpp
+json_read_test.cpp
+main_backup.cpp
+tempCodeRunnerFile.cpp
+test.txt
+
+# Editor files
+.vscode/
